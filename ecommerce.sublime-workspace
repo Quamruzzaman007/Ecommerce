@@ -1,0 +1,545 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"posta",
+				"postal_code"
+			],
+			[
+				"addre",
+				"address_line_2"
+			],
+			[
+				"line",
+				"line2"
+			],
+			[
+				"address",
+				"address_line_1"
+			],
+			[
+				"shipping",
+				"shipping_address"
+			],
+			[
+				"cart",
+				"cart_items"
+			],
+			[
+				"bili",
+				"billing_address"
+			],
+			[
+				"billi",
+				"billing_profile"
+			],
+			[
+				"billing",
+				"billing_address"
+			],
+			[
+				"b",
+				"billing_profile"
+			],
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"shipp",
+				"shipping_address_id"
+			],
+			[
+				"order",
+				"order_obj"
+			],
+			[
+				"get",
+				"get_or_create"
+			],
+			[
+				"lo",
+				"login_form"
+			],
+			[
+				"new",
+				"new_total"
+			],
+			[
+				"ship",
+				"shiping_total"
+			],
+			[
+				"ordr",
+				"order_id"
+			],
+			[
+				"orde",
+				"order_new_id"
+			],
+			[
+				"ran",
+				"random_string_generator"
+			],
+			[
+				"product",
+				"products"
+			],
+			[
+				"s",
+				"small\tTag"
+			],
+			[
+				"Product",
+				"ProductDetailSlugView"
+			],
+			[
+				"produc",
+				"Product"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"login",
+				"login_url"
+			],
+			[
+				"about",
+				"about_url"
+			],
+			[
+				"contact",
+				"contact_url"
+			],
+			[
+				"def",
+				"def\tFunction"
+			],
+			[
+				"tr",
+				"True"
+			],
+			[
+				"get_",
+				"get_object_or_404"
+			],
+			[
+				"P",
+				"ProductDetailView"
+			],
+			[
+				"Pro",
+				"ProductAdmin"
+			],
+			[
+				"fi",
+				"final_filename"
+			],
+			[
+				"context",
+				"get_contecxt_data"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"pass",
+				"password2"
+			],
+			[
+				"password",
+				"password2"
+			],
+			[
+				"cle",
+				"cleaned_data"
+			],
+			[
+				"pa",
+				"password2"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"register",
+				"register_page"
+			],
+			[
+				"logi",
+				"LoginForm"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"home",
+				"home_url"
+			],
+			[
+				"Ob",
+				"object"
+			],
+			[
+				"ht",
+				"Http404"
+			],
+			[
+				"ge",
+				"get_user_model"
+			],
+			[
+				"con",
+				"contact_form"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"fo",
+				"forms"
+			],
+			[
+				"reu",
+				"request"
+			],
+			[
+				"nm",
+				"name"
+			],
+			[
+				"cont",
+				"context"
+			],
+			[
+				"co",
+				"context"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"html",
+				"html_"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src"
+	],
+	"file_history":
+	[
+		"/Users/quamruzzaman/Desktop/decimal.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/addresses/models.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/carts/templates/carts/checkout.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/addresses/views.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/carts/views.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/carts/urls.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/accounts/views.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/carts/templates/carts/checkout-done.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/ecommerce/urls.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/orders/models.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/addresses/templates/addresses/prev_addresses.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/billing/models.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/addresses/templates/addresses/form.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/addresses/forms.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/accounts/templates/accounts/snippets/form.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/accounts/admin.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/accounts/models.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/accounts/templates/accounts/login.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/addresses/admin.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/accounts/forms.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/ecommerce/settings.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/billing/admin.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/ecommerce/views.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/ecommerce/forms.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/accounts/templates/accounts/register.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/templates/base/navbar.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/ecommerce/utils.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/orders/admin.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/carts/models.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/carts/templates/carts/home.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/products/models.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/tags/models.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/products/utils.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/products/templates/products/snippets/update-cart.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/products/templates/products/detail.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/products/views.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/products/urls.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/templates/base/css.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/carts/admin.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/search/urls.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/search/views.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/search/templates/search/view.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/search/templates/search/snippets/search-form.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/tags/admin.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/templates/bootstrap/example.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/templates/base.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/search/tests.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/products/templates/products/list.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/products/templates/products/snippets/card.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/templates/home_page.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/templates/base/js.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/templates/contact/view.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/products/templates/products/featured-detail.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/products/admin.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/static_my_proj/css/main.css",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/products/templates/products/utils.py",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/templates/auth/register.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/src/templates/auth/login.html",
+		"/Users/quamruzzaman/Dev/trydjango/ecommerce/static_cdn/static_root/css/main.css",
+		"/Users/quamruzzaman/Dev/trydjango/try/src/products/views.py",
+		"/Users/quamruzzaman/Dev/trydjango/try/src/manage.py",
+		"/Users/quamruzzaman/Dev/trydjango/try/src/products/admin.py",
+		"/Users/quamruzzaman/Dev/trydjango/try/src/pages/admin.py",
+		"/Users/quamruzzaman/Dev/trydjango/try/src/products/forms.py",
+		"/Users/quamruzzaman/Dev/trydjango/try/src/products/models.py",
+		"/Users/quamruzzaman/Dev/trydjango/try/src/pages/models.py",
+		"/Users/quamruzzaman/Dev/trydjango/try/src/trydjango/urls.py",
+		"/Users/quamruzzaman/Dev/trydjango/try/src/products/templates/products/product_detail.html",
+		"/Users/quamruzzaman/Dev/trydjango/try/src/products/templates/products/product_create.html",
+		"/Users/quamruzzaman/Dev/trydjango/try/src/products/templates/products/dynamic.html",
+		"/Users/quamruzzaman/Dev/trydjango/try/src/templates/base.html",
+		"/Users/quamruzzaman/Dev/trydjango/try/src/trydjango/settings.py",
+		"/Users/quamruzzaman/Dev/trydjango/try/src/templates/navbar.html",
+		"/Users/quamruzzaman/Dev/trydjango/try/src/templates/home.html",
+		"/Users/quamruzzaman/Dev/trydjango/try/src/templates/social.html",
+		"/Users/quamruzzaman/Dev/trydjango/try/src/templates/about.html",
+		"/Users/quamruzzaman/Dev/trydjango/try/src/templates/contact.html",
+		"/Users/quamruzzaman/Dev/trydjango/try/src/pages/views.py",
+		"/Users/quamruzzaman/Dev/trydjango/try/src/templates/Product/detail.html",
+		"/Users/quamruzzaman/Desktop/paragraph.html",
+		"/Users/quamruzzaman/firstpro/firstpro/settings.py",
+		"/Users/quamruzzaman/firstpro/firstpro/views.py",
+		"/Users/quamruzzaman/firstpro/firstpro/urls.py",
+		"/Users/quamruzzaman/firstpro/product/utils.py",
+		"/Users/quamruzzaman/firstpro/product/templates/products/featured-detail.html",
+		"/Users/quamruzzaman/firstpro/product/templates/products/detail.html",
+		"/Users/quamruzzaman/firstpro/product/views.py",
+		"/Users/quamruzzaman/firstpro/product/urls.py",
+		"/Users/quamruzzaman/firstpro/product/templates/products/list.html",
+		"/Users/quamruzzaman/firstpro/templates/auth/register.html",
+		"/Users/quamruzzaman/firstpro/templates/auth/login.html",
+		"/Users/quamruzzaman/firstpro/firstpro/forms.py",
+		"/Users/quamruzzaman/firstpro/templates/home.html",
+		"/Users/quamruzzaman/firstpro/product/admin.py",
+		"/Users/quamruzzaman/firstpro/stayic_my_proj",
+		"/Users/quamruzzaman/firstpro/firstpro/static_cdn",
+		"/Users/quamruzzaman/firstpro/firstpro/templates/home.html",
+		"/Users/quamruzzaman/firstpro/firstpro/untitled",
+		"/Users/quamruzzaman/firstpro/firstpro/templates"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"col",
+			"is_authenticated",
+			").",
+			"productssearch",
+			">\n",
+			"script>\n    -->",
+			">\n    -->",
+			"\n    -->",
+			"    -->",
+			"-->",
+			"username",
+			" \"",
+			"views.py"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ecommerce.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"admin",
+				"try/src/products/admin.py"
+			],
+			[
+				"mode",
+				"try/src/products/models.py"
+			],
+			[
+				"manage",
+				"try/src/manage.py"
+			],
+			[
+				"model",
+				"try/src/products/models.py"
+			],
+			[
+				"setting",
+				"firstpro/settings.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

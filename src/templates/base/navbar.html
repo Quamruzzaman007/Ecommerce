@@ -1,0 +1,48 @@
+{% url 'home' as home_url %}
+{% url 'contact' as contact_url %}
+{% url 'about' as about_url %}
+{% url 'products:list' as products_list_url %}
+{% url 'login' as login_url %}
+{% url 'logout' as logout_url %}
+{% url 'register' as register_url %}
+{% url 'cart:home' as cart_url %}
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="{{ home_url }}">{% if brand_name %} {{ brand_name }} {% else %}eco{% endif %}</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link {% if request.path == home_url %} active {% endif%}" aria-current="page" href="{{ home_url }}">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {% if request.path == contact_url %} active {% endif%}" aria-current="page" href="{{ contact_url }}">Contact</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {% if request.path == about_url %} active {% endif%}" aria-current="page" href="{{ about_url }}">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {% if request.path == products_list_url %} active {% endif%}" aria-current="page" href="{{ products_list_url }}">Products</a>
+        </li>
+        {% if request.user.is_authenticated %}
+        <li class="nav-item">
+          <a class="nav-link {% if request.path == logout_url %} active {% endif%}" aria-current="page" href="{{ logout_url }}">Logout</a>
+        </li>
+        {% else %}
+        <li class="nav-item">
+          <a class="nav-link {% if request.path == register_url %} active {% endif%}" aria-current="page" href="{{ register_url }}">Register</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {% if request.path == login_url %} active {% endif%}" aria-current="page" href="{{ login_url }}">Login</a>
+        </li>
+        {% endif %}
+        <li class="nav-item">
+          <a class="nav-link {% if request.path == cart_url %} active {% endif%}" aria-current="page" href="{{ cart_url }}">{{ request.session.cart_items }}<i class="fa fa-shopping-cart" aria-hidden="true"></i> </a>
+        </li>
+      </ul>
+      {% include 'search/snippets/search-form.html' %}
+    </div>
+  </div>
+</nav>
